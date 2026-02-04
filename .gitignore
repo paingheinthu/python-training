@@ -1,0 +1,11 @@
+solution.md
+solution/
+solution_*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
